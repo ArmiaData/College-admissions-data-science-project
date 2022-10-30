@@ -6,8 +6,7 @@
     
 # 1.1 Scenario
 > ### You are a high school student or a parent about to begin the college admission process and you decided to analyze the data to find a school that would be a good fit.
-# Motivation
-> ### College Admissions are a multi billion dollar a year industry.
+
 # Data Questions
 >
 > ## 1) Applications vs admissions vs enrolled: WHat does this tell you about the number of students that were accepted, but went to a different school? What do you think impacted their decisions?
